@@ -27,4 +27,4 @@ int main()
 	 	printf("%5d ",a[i]);
 	 }
 	 return 0;
- } 
+ }//very sad 
